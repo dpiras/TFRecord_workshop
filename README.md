@@ -1,2 +1,2 @@
 # The complicated case of TFRecord
-A public repo to host the material for the Jordanian workshop about TFRecords.
+A public repository to host the material for the Jordan workshop about `TFRecord`.
